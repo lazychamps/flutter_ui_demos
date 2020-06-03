@@ -1,6 +1,6 @@
 ![Social UI Demo](demos/socialui.gif)
 
-![Chat UI Demo](demos/chatui.gif)
+![Chat UI Demo](demos/chat_ui.gif)
 
 ![Food Delivery UI Demo](demos/food_delivery.gif)
 
