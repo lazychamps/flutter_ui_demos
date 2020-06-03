@@ -8,4 +8,6 @@
 
 ![Budget App UI Demo](demos/budget_app.gif)
 
+![Instagram UI Demo](demos/instagram_demo.gif)
+
 ![List Stack UI Demo](demos/liststack_demo.gif)
